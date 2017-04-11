@@ -1,0 +1,26 @@
+D:\Unity\New Unity Project\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Unity\New Unity Project\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Unity\New Unity Project\Temp\bin\Debug\UnityEditor.dll
+D:\Unity\New Unity Project\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Unity\New Unity Project\Temp\bin\Debug\UnityEngine.dll
+D:\Unity\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Unity\New Unity Project\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Unity\New Unity Project\Temp\bin\Debug\Mono.Cecil.dll
+D:\Unity\New Unity Project\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Unity\New Unity Project\Temp\bin\Debug\Unity.DataContract.dll
+D:\Unity\New Unity Project\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Unity\New Unity Project\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Unity\New Unity Project\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Unity\New Unity Project\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Unity\New Unity Project\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Unity\New Unity Project\Temp\bin\Debug\UnityEngine.xml
+D:\Unity\New Unity Project\Temp\bin\Debug\UnityEditor.xml
+D:\Unity\New Unity Project\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Unity\New Unity Project\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Unity\New Unity Project\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Unity\New Unity Project\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Unity\New Unity Project\obj\Debug\Assembly-CSharp.dll
+D:\Unity\New Unity Project\obj\Debug\Assembly-CSharp.pdb
+D:\work\冰岩\实习作业\项目工程文件\Slithersingleplayer\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\work\冰岩\实习作业\项目工程文件\Slithersingleplayer\obj\Debug\Assembly-CSharp.dll
+D:\work\冰岩\实习作业\项目工程文件\Slithersingleplayer\obj\Debug\Assembly-CSharp.pdb

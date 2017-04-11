@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slithersingleplayer - behavior tree", "Slithersingleplayer - behavior tree.csproj", "{359CED8F-976F-6157-FCEC-568AA88202CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slithersingleplayer - behavior tree.Editor", "Slithersingleplayer - behavior tree.Editor.csproj", "{97EDBFDF-8384-E4F3-B874-EB865BB685EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359CED8F-976F-6157-FCEC-568AA88202CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359CED8F-976F-6157-FCEC-568AA88202CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359CED8F-976F-6157-FCEC-568AA88202CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359CED8F-976F-6157-FCEC-568AA88202CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97EDBFDF-8384-E4F3-B874-EB865BB685EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EDBFDF-8384-E4F3-B874-EB865BB685EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EDBFDF-8384-E4F3-B874-EB865BB685EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EDBFDF-8384-E4F3-B874-EB865BB685EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
